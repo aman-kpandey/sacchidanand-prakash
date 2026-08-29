@@ -1,0 +1,30 @@
+{
+  "name": "श्री सच्चिदानंद प्रकाश",
+  "short_name": "Sacchidanand",
+  "description": "श्री सच्चिदानंद प्रकाश अर्थात् अद्वैतानंद साहित्य",
+  "lang": "hi",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF8F0",
+  "theme_color": "#B8860B",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
